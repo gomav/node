@@ -40,7 +40,7 @@ app.post('/contact/send', function(req, res){
         service: 'Gmail',
         auth: {
             user: 'manny.navarro@gmail.com',
-            pass: '$$$$MAv1457manx'
+            pass: ''
         }
     });
 
