@@ -1,0 +1,32 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "Authentication Test",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "*",
+    "debug": "*",
+    "express": "*",
+    "express-generator": "*",
+    "express-messages": "*",
+    "express-session": "^1.13.0",
+    "express-validator": "*",
+    "jade": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "multer": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*",
+    "serve-favicon": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manny Navarro",
+  "license": "ISC"
+}
